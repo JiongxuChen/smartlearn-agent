@@ -16,4 +16,4 @@ An AI-powered learning assistant that helps students understand complex topics t
 
 ## Author
 
-Built by YOUR NAME during the SmartLearn Workshop.
+Built by Jiongxu Chen during the SmartLearn Workshop.
